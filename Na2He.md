@@ -159,8 +159,8 @@ In the current market, purchasing parts is still challenging - some supply chain
 
 * Contact info (* required) - &emsp;<font color=blue>na2heiot@gmail.com</font> 
 * Discord supports channel : [na2he](https://discord.gg/jWnVsreEZW)
-* Twitter profile - @Na2HeTech
-* Facebook profile - No
+* Twitter profile ： @Na2HeTech
+* Facebook profile ： No
 * Other social profiles - No
 * Website -&emsp; [http://www.e-ai.net/](http://www.e-ai.net/)
 * Payment methods available -   &emsp; paybal / unionpay / visa
